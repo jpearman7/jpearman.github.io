@@ -1,22 +1,17 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "The Big Five Across Socioeconomic Status: Measurement Invariance, Relationships, and Age Trends"
+    authors: Bradley T. Hughes*, Cory K. Costello, <strong>Joshua Pearman</strong>, Pooya Razavi, Cianna Bedford-Petersen, Rita M. Ludwig, Sanjay Srivastava (*Corresponding authors)
+    outlet: Collabra: Psychology, 2021
+    url: https://online.ucpress.edu/collabra/article/7/1/24431/117346/The-Big-Five-Across-Socioeconomic-Status
+    doi: https://doi.org/10.1525/collabra.24431
+    # image: ./assets/img/teaser_example_2.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "What is ‘Functional’ About Distributed Leadership in Teams?"
+    authors: <strong>Joshua Pearman</strong>, Emily Gerkin, Dorothy R. Carter
+    outlet: The SAGE Handbook of Leadership, 2023.
+    url: https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-leadership-2e/chpt/7-what-is-functional-about-distributed-leadership
+    doi: 10.4135/9781529781892.n9
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
