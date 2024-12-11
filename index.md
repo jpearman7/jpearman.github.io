@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Organizational Psychology at Michigan State University
 
 - **Team Dynamics:** team cognition, coordination processes, team composition, expert/interdisciplinary teams, e-sports and virtual team environments, human-AI teaming
 - **Personality and Individual Differences:** five-factor model, openness to experience, personality structure, assessment development
-- **Technological Innovations:** computational social science, digital trace data and log analysis, artificial intelligence augmenting team and individual knowledge retrieval, using large language models and neural transformer architectures to examine psychological construct validity
+- **Computational Social Science:** digital trace data and log analysis, artificial intelligence augmenting team and individual knowledge retrieval, using large language models and neural transformer architectures to examine psychological construct validity
 - **Methods:** natural language processing (NLP), social network analysis (SNA), factor analysis, linear and logistic regression, survey design
 - **Programming and Other Tools:** R, Python, Grafana (SQL), Google Vertex AI
 
