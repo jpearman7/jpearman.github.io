@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. candidate at Michigan State University
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Team Dynamics:** team cognition, coordination processes, team composition, expert/interdisciplinary teams, e-sports and virtual team environments
+- **Personality and Individual Differences:** five-factor model, openness to experience, personality structure, assessment development
+- **Technological Innovations:** computational social science, digital trace data and log analysis, artificial intelligence augmenting team and individual knowledge retrieval, using large language models and neural transformer architectures to examine psychological construct validity
+- **Methods:** natural language processing (NLP), social network analysis (SNA), factor analysis, linear and logistic regression, survey design
+- **Programming and Other Tools:** R, Python, Grafana (SQL), Google Vertex AI
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2024]** On the hunt for new opportunities!
 
 {% include_relative _includes/publications.md %}
 
